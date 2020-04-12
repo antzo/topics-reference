@@ -27,6 +27,10 @@
 - https://github.com/jgauffin/dotnetcqs/blob/master/src/DotNetCqs.Autofac/ContainerQueryBus.cs
 - https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/
 
+### Event-sourcing
+- https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591577%28v%3dpandp.10%29
+- https://medium.com/@mnavarrocarter/event-sourcing-in-php-2108fd18349b
+
 ### Microservices
 - pivotal.io/learn
 - https://content.pivotal.io/blog/messaging-patterns-for-event-driven-microservices
