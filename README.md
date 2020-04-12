@@ -1,29 +1,25 @@
 # TOPICS OF INTEREST
 
-TOPICS
-
-https://eybooks.com/forum/61-tutoriales-cursos/
-
-PHP
+### PHP
 - PHP Code profiler: http://de.php.net/manual/en/book.xhprof.php
 - Threads in PHP: https://medium.com/@rossbulat/true-php7-multi-threading-how-to-rebuild-php-and-use-pthreads-bed4243c0561
 - Symfony container compilation: https://symfony.com/doc/current/components/dependency_injection/compilation.html
 - https://github.com/bnb/awesome-hyper
 
-Testing
+### Testing
 - https://www.petefreitag.com/item/689.cfm (Apache Bench for load testing)
 - https://jmeter.apache.org/ (JMeter load functional tests)
 
-Patterns
+### Patterns
 - https://github.com/sebastianbergmann/state
 
-GO
+### GO
 - https://medium.com/@boobo94/web-service-architecture-for-golang-developers-a4147b8141ff
 - https://github.com/segmentio/kafka-go
 - https://medium.com/@alessandromarinoac/docker-nginx-golang-reverse-proxy-d8244778bd43
 - https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html
 
-CQRS
+### CQRS
 - https://martinfowler.com/bliki/CQRS.html
 - matthiasnoback.nl/tags/command%20bus/
 - simplebus.io - https://github.com/SimpleBus
@@ -31,25 +27,25 @@ CQRS
 - https://github.com/jgauffin/dotnetcqs/blob/master/src/DotNetCqs.Autofac/ContainerQueryBus.cs
 - https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/
 
-Microservices
-pivotal.io/learn
+### Microservices
+- pivotal.io/learn
 - https://content.pivotal.io/blog/messaging-patterns-for-event-driven-microservices
 - https://www.nginx.com/blog/microservices-from-design-to-deployment-ebook-nginx/
 - https://medium.com/@poweredlocal/developing-a-simple-api-gateway-in-php-and-lumen-f84756cce043
 - https://medium.com/unbabel/your-distributed-monoliths-are-secretly-plotting-against-you-4c1b20324a31
 
-DDD
+### DDD
 Eric Evans - Good Design is Imperfect Design
 https://www.youtube.com/watch?time_continue=6&v=lY54TmmEllY
 
-Bounded contexts:
+### Bounded contexts:
 - https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e
 
-Code quality
+### Code quality
 - http://www.icosaedro.it/phplint/
 - https://github.com/hootsuite/pre-commit-php
 
-React
+### React
 - React+Redux: https://redux.js.org/basics/usage-with-react
 - Presentational and Container components: https://gist.github.com/chantastic/fc9e3853464dffdb1e3c
 - React helmet, a document head manager: https://github.com/nfl/react-helmet
@@ -57,30 +53,29 @@ React
 - React patterns: https://reactpatterns.com/
 - React + ES6 + babel + Webpack: https://medium.freecodecamp.org/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff
 
-Redux
+### Redux
 - https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367
 
-JS testing
+### JS testing
 - https://mochajs.org
 - https://www.testcontainers.org/
 
-Elasticsearch
+### Elasticsearch
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/query-filter-context.html
 - https://github.com/elastic/dockerfiles
 
-Kibana
+### Kibana
 - https://www.elastic.co/guide/en/kibana/7.6/index.html
 - https://www.elastic.co/guide/en/kibana/7.6/settings.html
 
-Logstash
+### Logstash
 - https://www.elastic.co/guide/en/logstash/current/index.html
 
-DevOps
-
+### DevOps
 - Amazon dev env (https://github.com/localstack/localstack)
 - Ansible course (https://www.udemy.com/mastering-ansible-x)
 - Kubernetes cheatsheet: (https://linuxacademy.com/blog/containers/kubernetes-cheat-sheet/)
 
-RabbitMQ
+### RabbitMQ
 - https://www.cloudamqp.com/blog/2018-01-19-part4-rabbitmq-13-common-errors.html
 
