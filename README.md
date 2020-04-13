@@ -82,4 +82,6 @@ https://www.youtube.com/watch?time_continue=6&v=lY54TmmEllY
 
 ### RabbitMQ
 - https://www.cloudamqp.com/blog/2018-01-19-part4-rabbitmq-13-common-errors.html
+- https://medium.com/hepsiburadatech/implementing-highly-available-rabbitmq-cluster-on-docker-swarm-using-consul-based-discovery-45c4e7919634
+
 
