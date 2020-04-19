@@ -87,3 +87,6 @@ https://www.youtube.com/watch?time_continue=6&v=lY54TmmEllY
 ### Docker
 - https://docs.docker.com/compose/swarm/
 - https://semaphoreci.com/community/tutorials/bootstrapping-a-docker-swarm-mode-cluster
+
+### Distributed systems
+- http://thesecretlivesofdata.com/raft/
