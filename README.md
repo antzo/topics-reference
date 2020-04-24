@@ -93,3 +93,4 @@ https://www.youtube.com/watch?time_continue=6&v=lY54TmmEllY
 
 ### nginx
 - https://serversforhackers.com/c/nginx-caching
+- https://github.com/h5bp/server-configs-nginx (nginx boilerplate config)
